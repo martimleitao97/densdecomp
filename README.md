@@ -1,2 +1,2 @@
 # densdecomp
-Stata Package for Non-Parametric Counterfactual Earnings Distribution.
+This function implements a variant of the Mata and Machado (2005) non-parametric density decomposition approach, following Autor et al. (2005) and Song et al. (2019). It evaluates the relative importance of between- and within-firm inequality dynamics on overall earnings inequality dynamics. It builts two counterfactuals for what would have happened to inequality, with and without the between component dynamics, respectively. 
