@@ -1,2 +1,2 @@
 # densdecomp
-Stata function for non-parametric earnings density decomposition.
+Stata Package for Non-Parametric Counterfactual Earnings Distribution.
